@@ -1,0 +1,15 @@
+C:\Users\DEHGHAN\Desktop\c#\سمپل\bin\Debug\net6.0\سمپل.exe
+C:\Users\DEHGHAN\Desktop\c#\سمپل\bin\Debug\net6.0\سمپل.deps.json
+C:\Users\DEHGHAN\Desktop\c#\سمپل\bin\Debug\net6.0\سمپل.runtimeconfig.json
+C:\Users\DEHGHAN\Desktop\c#\سمپل\bin\Debug\net6.0\سمپل.dll
+C:\Users\DEHGHAN\Desktop\c#\سمپل\bin\Debug\net6.0\سمپل.pdb
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\سمپل.csproj.AssemblyReference.cache
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\سمپل.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\سمپل.AssemblyInfoInputs.cache
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\سمپل.AssemblyInfo.cs
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\سمپل.csproj.CoreCompileInputs.cache
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\سمپل.dll
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\refint\سمپل.dll
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\سمپل.pdb
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\سمپل.genruntimeconfig.cache
+C:\Users\DEHGHAN\Desktop\c#\سمپل\obj\Debug\net6.0\ref\سمپل.dll
